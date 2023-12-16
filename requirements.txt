@@ -1,0 +1,6 @@
+BOOK NAME:     OOP MASTER
+Skipped Pages: 139 ---> 235
+CURRENT PAGE: 337
+
+GitHub answer sheet:
+https://github.com/IrvKalb/Object-Oriented-Python-Code
